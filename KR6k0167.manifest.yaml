@@ -1,0 +1,265 @@
+canonical_identifier: bkk:krp/KR6k0167/v1
+canonical_location: https://kanripo.org/bkk/KR6k0167/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四分律行事鈔簡正記
+  identifiers:
+    alt_id:
+    - X43n0737
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X43/X43n0737.xml
+    old_id: X43n0737
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0167_000.yaml, hash: 'sha256:9910229e11bb3fba41bf54839917ae6202a1b02b654c8e88ef73dd553279e00d'}
+  - {seq: 1, filename: KR6k0167_001.yaml, hash: 'sha256:5f77782244d76b45bf2aac04462e1371a5f5aaaebc9a451c4422bd38c2794423'}
+  - {seq: 2, filename: KR6k0167_002.yaml, hash: 'sha256:3d6bf9552ae23085c9264d6cd67ee274f2c69905a0ee210ce51ad4bac5fe1f04'}
+  - {seq: 3, filename: KR6k0167_003.yaml, hash: 'sha256:6c5f82a69638b2d7642f4860b16275f2633e9b6ead24b4832c0d685dcd5d6ea2'}
+  - {seq: 4, filename: KR6k0167_004.yaml, hash: 'sha256:4aefa0928fead01e74dc06560415b5620e15fcca607574313cd7328c198abcd3'}
+  - {seq: 5, filename: KR6k0167_005.yaml, hash: 'sha256:e556aea56140e3a7ec330157288f8d4b3d73a2f7f247dbf49698a1c33e34b0ce'}
+  - {seq: 6, filename: KR6k0167_006.yaml, hash: 'sha256:84ae511771820f127f879c55cb1f2d3cefbe9403da99d38e526a066e5d001fe6'}
+  - {seq: 8, filename: KR6k0167_008.yaml, hash: 'sha256:a93a4a9ad5214de1486b366b80a3f7d5e0d2e9b4a430d36bdce820f3b6968821'}
+  - {seq: 9, filename: KR6k0167_009.yaml, hash: 'sha256:d83fc9fe5f058a5ed2e0af792501563491c24f5c8d856880dda1ce4487fa64f9'}
+  - {seq: 8, filename: KR6k0167_008.yaml, hash: 'sha256:a93a4a9ad5214de1486b366b80a3f7d5e0d2e9b4a430d36bdce820f3b6968821'}
+  - {seq: 9, filename: KR6k0167_009.yaml, hash: 'sha256:d83fc9fe5f058a5ed2e0af792501563491c24f5c8d856880dda1ce4487fa64f9'}
+  - {seq: 10, filename: KR6k0167_010.yaml, hash: 'sha256:c24b9cd07bf52e4e7853bcc238159f63c877f77c68971812bf6010ef594db89c'}
+  - {seq: 11, filename: KR6k0167_011.yaml, hash: 'sha256:19fdaef34b2d16ad357a588e81cc980f74041ebd87a1666163e6878427fafbc7'}
+  - {seq: 12, filename: KR6k0167_012.yaml, hash: 'sha256:1a80f77168e077aacfd22f5d307df0897f78850ebe7d4f1777cf8d4977001c32'}
+  - {seq: 13, filename: KR6k0167_013.yaml, hash: 'sha256:1fc20c60b9afecdab0b3a669b5feb3a208a13a07762631cd507a391e7e36ed20'}
+  - {seq: 14, filename: KR6k0167_014.yaml, hash: 'sha256:7594e646ed60992d9a6f567a3f162566cf7e2915d24d62a7bb0b50f7237dcf6a'}
+  - {seq: 15, filename: KR6k0167_015.yaml, hash: 'sha256:93411ca0112c638e885140a90e2d708ca3175d0913717b2f163eca7c279fb077'}
+  - {seq: 16, filename: KR6k0167_016.yaml, hash: 'sha256:ca2c6b7823023b5c3717d34bdcbc5f4d9de0be842fb59dc81e34c20ef0fd5f6a'}
+  - {seq: 17, filename: KR6k0167_017.yaml, hash: 'sha256:253819cfd541e5fa4a96ee4b5800c467b04d4272180974e3332d87a610db114e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0167_000.markers.yaml, hash: 'sha256:6d060671ca1b198dbe4b68611ce21ef3fe731f945629f04ee03bfb0a7da83d3e'}
+  - {seq: 1, role: markers, filename: assets/KR6k0167_001.markers.yaml, hash: 'sha256:2a3f778fb70eefc0e00efde844b2fc45401959d09ded438a5f935044e7f3d9e5'}
+  - {seq: 2, role: markers, filename: assets/KR6k0167_002.markers.yaml, hash: 'sha256:ad6d6daf580c33d6f33d6b1a395008621e2e4024c78195a53e26922cc58ac5d3'}
+  - {seq: 3, role: markers, filename: assets/KR6k0167_003.markers.yaml, hash: 'sha256:9b0d3b8d2ceeb37d77b0d6c58502c28a9b9b4ddea9698bc36576b60d8521fed8'}
+  - {seq: 4, role: markers, filename: assets/KR6k0167_004.markers.yaml, hash: 'sha256:46f1027eff35b2e4cab7104e7db3c8a69f00230064585ef990afbcbc9ad11f46'}
+  - {seq: 5, role: markers, filename: assets/KR6k0167_005.markers.yaml, hash: 'sha256:c35857a4bdc0f58e200669098e73e3f207446f1d6fbcc87427e5e5189a46710d'}
+  - {seq: 6, role: markers, filename: assets/KR6k0167_006.markers.yaml, hash: 'sha256:ccec5f688d835800e30bd72a24ec33f333ab8a0ce2ac88b625cc7dd0f9df2fae'}
+  - {seq: 8, role: markers, filename: assets/KR6k0167_008.markers.yaml, hash: 'sha256:475ed85ea5802db91c0940b038ae50604d4f9ff8b83282ad74300231f3a854cd'}
+  - {seq: 9, role: markers, filename: assets/KR6k0167_009.markers.yaml, hash: 'sha256:e9959fe1831a9ed80755936179df89aee0acbe48ff5e8c6e6b9d0a163cc324af'}
+  - {seq: 10, role: markers, filename: assets/KR6k0167_010.markers.yaml, hash: 'sha256:2d3d83f925cbd5e86395fee05083a4655217f736f4e96fa5b415ee302e283a6b'}
+  - {seq: 11, role: markers, filename: assets/KR6k0167_011.markers.yaml, hash: 'sha256:3b6ae9ca7f3169640fd49cdd89d55e274c7c132062b81cf8b95f36e66d69681d'}
+  - {seq: 12, role: markers, filename: assets/KR6k0167_012.markers.yaml, hash: 'sha256:d72b9ba83d5efdb5ff63bacf959b91df18ef065d0f6b4e24403de817b4057a27'}
+  - {seq: 13, role: markers, filename: assets/KR6k0167_013.markers.yaml, hash: 'sha256:f24bec8d513c16c2aa2e5cf5f0f0dc20e89afe6d80ca38991d450f5b67f38377'}
+  - {seq: 14, role: markers, filename: assets/KR6k0167_014.markers.yaml, hash: 'sha256:dc0c3cd4db1f3b0ee1a5a50c0e67006f060412b5cdb5784bddf526161b6f41ad'}
+  - {seq: 15, role: markers, filename: assets/KR6k0167_015.markers.yaml, hash: 'sha256:d56167c6ac4f2daf71d9afa6a5838fbd73597a8ab9a6bd1348df42ffe1f88d80'}
+  - {seq: 16, role: markers, filename: assets/KR6k0167_016.markers.yaml, hash: 'sha256:285ec32fc25b43a99000aacebc685d65e92818a19fbc47c0d962f7b578c97538'}
+  - {seq: 17, role: markers, filename: assets/KR6k0167_017.markers.yaml, hash: 'sha256:c5dacfbf88e4d0f9918730e31de8b0639c28fd81465b2d974626e10248b9cac1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0167_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 四分律行事鈔簡正記目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0167_X_000-mulu-2
+    span:
+    - front
+    - 247
+    - 247
+  label: 四分律鈔簡正記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0167_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 30667
+  label: 四分律鈔簡正記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0167_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 12261
+  label: 四分律鈔簡正記卷第二釋鈔題目一十一字
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0167_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 33107
+  label: 四分律鈔簡正記卷第三釋鈔惣序畢別序第一門
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0167_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 30404
+  label: 四分律鈔簡正記卷第四釋別序第二門畢第十門
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0167_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 48587
+  label: 四分律鈔簡正記卷第五從標宗篇畢受欲篇
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0167_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 45246
+  label: 四分律鈔簡正記卷第六從羯磨篇畢結界篇
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0167_X_7a-juan-start
+    span:
+    - body
+    - 0
+    - 33186
+  label: 四分律鈔簡正記卷第七上從僧綱篇畢師資篇
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0167_X_7b-juan-start
+    span:
+    - body
+    - 0
+    - 23030
+  label: 四分律鈔簡正記卷第七下
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0167_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 48488
+  label: 四分律鈔簡正記卷第八從說戒篇畢自恣篇
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0167_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 51003
+  label: 四分律鈔簡正記卷第九從名報篇異釋相篇六趣章
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0167_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 46167
+  label: 四分律鈔簡正記卷第十此卷從釋相篇七眾發戒章畢二不定戒
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0167_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 39450
+  label: 四分律鈔簡正記卷第十一從釋相第三十戒畢九十戒
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0167_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 31038
+  label: 四分律鈔簡正記卷第十二從九十中三十一戒畢隨戒篇
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0167_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 30290
+  label: 四分律鈔簡正記卷第十三從持犯篇首至第六優劣畢
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0167_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 33543
+  label: 四分律鈔簡正記卷第十四從七雜料簡門畢持犯篇
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0167_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 47083
+  label: 四分律鈔簡正記卷第十五從懺六聚篇畢二衣篇
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0167_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 62626
+  label: 四分律鈔簡正記卷第十六從四藥篇畢諸雜要行篇
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0167_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 23781
+  label: 四分律鈔簡正記卷第十七從沙彌篇畢傳通分
+  type: juan
+  level: 1
+hash: sha256:05453a27939644ca28e51184801602e70d2d84546bea596b9ece31283eb6e53c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
