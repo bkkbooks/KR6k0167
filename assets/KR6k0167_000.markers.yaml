@@ -110,7 +110,6 @@ markers:
   - {type: line-break, offset: 122, content: '', id: KR6k0167_X_000-0107b03, ed: R068, 'n': 0107b03}
   - {type: xml-element, offset: 122, content: '', id: KR6k0167_X_000-bkkxmlele20, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 122, content: '', id: itemX43p0001a2401, name: item, role: open, attrs: {'xml:id': itemX43p0001a2401}}
-  - {type: substitution, offset: 124, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: xml-element, offset: 133, content: '', id: itemX43p0001a2401_end, name: item, role: close, attrs: {'xml:id': itemX43p0001a2401}}
   - {type: xml-element, offset: 133, content: '', id: KR6k0167_X_000-bkkxmlele21, name: list, role: close, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 133, content: '', id: itemX43p0001a2301_end, name: item, role: close, attrs: {'xml:id': itemX43p0001a2301}}
@@ -450,4 +449,4 @@ markers:
   - {type: variant, offset: 32991, length: 1, content: 已, 卍續: 巳}
   body: []
   back: []
-hash: sha256:6d060671ca1b198dbe4b68611ce21ef3fe731f945629f04ee03bfb0a7da83d3e
+hash: sha256:fa725a8dbc2655f703307321fd57944cb2d44e0097d3218a45f4ec0fcc593818
