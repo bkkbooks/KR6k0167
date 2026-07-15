@@ -90,6 +90,7 @@ markers:
   - {type: line-break, offset: 97, content: '', id: KR6k0167_X_000-0107a17, ed: R068, 'n': 0107a17}
   - {type: xml-element, offset: 97, content: '', id: KR6k0167_X_000-bkkxmlele16, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 97, content: '', id: itemX43p0001a2001, name: item, role: open, attrs: {'xml:id': itemX43p0001a2001}}
+  - {type: substitution, offset: 98, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: xml-element, offset: 105, content: '', id: itemX43p0001a2001_end, name: item, role: close, attrs: {'xml:id': itemX43p0001a2001}}
   - {type: xml-element, offset: 105, content: '', id: KR6k0167_X_000-bkkxmlele17, name: list, role: close, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 105, content: '', id: itemX43p0001a1901_end, name: item, role: close, attrs: {'xml:id': itemX43p0001a1901}}
@@ -110,6 +111,7 @@ markers:
   - {type: line-break, offset: 122, content: '', id: KR6k0167_X_000-0107b03, ed: R068, 'n': 0107b03}
   - {type: xml-element, offset: 122, content: '', id: KR6k0167_X_000-bkkxmlele20, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 122, content: '', id: itemX43p0001a2401, name: item, role: open, attrs: {'xml:id': itemX43p0001a2401}}
+  - {type: substitution, offset: 124, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: xml-element, offset: 133, content: '', id: itemX43p0001a2401_end, name: item, role: close, attrs: {'xml:id': itemX43p0001a2401}}
   - {type: xml-element, offset: 133, content: '', id: KR6k0167_X_000-bkkxmlele21, name: list, role: close, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 133, content: '', id: itemX43p0001a2301_end, name: item, role: close, attrs: {'xml:id': itemX43p0001a2301}}
@@ -449,4 +451,4 @@ markers:
   - {type: variant, offset: 32991, length: 1, content: 已, 卍續: 巳}
   body: []
   back: []
-hash: sha256:fa725a8dbc2655f703307321fd57944cb2d44e0097d3218a45f4ec0fcc593818
+hash: sha256:951509454b69f366b9175a40376c4725431c077369f84043fc762910cb0b863c
